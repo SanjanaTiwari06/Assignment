@@ -15,7 +15,7 @@ export default function ProductsPage() {
   return (
     <Protected>
       <Container sx={{ mt: 4 }}>
-        <Typography variant="h4" gutterBottom>Our Products</Typography>
+        <Typography variant="h4" gutterBottom>Our Product</Typography>
         
         {loading ? (
           <Box sx={{ display: 'flex', justifyContent: 'center', mt: 5 }}><CircularProgress /></Box>
