@@ -11,13 +11,13 @@ Yeh ek modern web application hai jise **Next.js**, **Zustand**, aur **Material-
 - **State Management:** Handled globally using Zustand.
 - **Performance:** Optimized with React hooks like `useMemo` and `useCallback`.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Framework:** Next.js
 - **UI:** Material-UI (MUI)
 - **State:** Zustand
 - **API:** [DummyJSON](https://dummyjson.com/)
 
-## ⚙️ How to Run Locally
+## How to Run Locally
 1. **Repository Clone karein:**
    ```bash
    git clone [https://github.com/SanjanaTiwari06/Assignment.git](https://github.com/SanjanaTiwari06/Assignment.git)
@@ -25,6 +25,7 @@ Yeh ek modern web application hai jise **Next.js**, **Zustand**, aur **Material-
 
 2. Dependencies Install karein:
    npm install
+   
 3.Project Run karein:
    npm run dev
 
